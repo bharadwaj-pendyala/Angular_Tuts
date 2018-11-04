@@ -1,0 +1,7 @@
+Jargons
+
+A. Modules - Tag js to html and provide numerous features
+B. Directives
+C. Scope
+D. Expressions
+E. Services
